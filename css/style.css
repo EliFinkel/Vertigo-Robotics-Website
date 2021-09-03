@@ -46,7 +46,9 @@ body {
 .logo b{
   font: 400 19vh "Courier New", cursive;
   color:  var(--color);
-  -webkit-text-shadow: 0 0 0.1em  var(--color), 0 10px 3px #000;
+  /*-webkit-text-shadow: 0 0 0.1em  var(--color), 0 10px 3px #000;
+  box-shadow: white 3px;*/
+  text-shadow: 2px 2px #ffffff;
 }
 
 
